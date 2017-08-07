@@ -1,5 +1,4 @@
-# I will use Regular Expression to detect the expressions in this project
-
+# I will use Regular Expression to match patterns of an email id.
 import re
 
 if __name__  ==  '__main__':
